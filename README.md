@@ -1,2 +1,2 @@
 # 3pod-icons
-3pod-icons-all
+Copyright 3pod.us
